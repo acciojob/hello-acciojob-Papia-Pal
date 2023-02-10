@@ -1,7 +1,8 @@
 
 /* Your CSS Code here. */
-.accio{
-	padding: 150px;
+#job{
+	width: 150px;
+	height: 150px;
 	background: black;
 }
 .hello-accio{
